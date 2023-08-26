@@ -1,0 +1,14 @@
+.contact-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-btn{
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 8px;
+}
